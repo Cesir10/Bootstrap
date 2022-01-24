@@ -1,0 +1,67 @@
+.sobre {
+  top: 100px;
+  left: 30px;
+  opacity: 0.7;
+  background-color: rgb(231, 19, 19);
+  color: rgb(248, 32, 32);
+  transform: rotate(10deg);
+  border: 1px solid red;
+}
+
+body {
+  background-color: rgb(255, 255, 255);
+  color: rgb(10, 10, 10);
+}
+
+.nav-rojo{
+  background-color: rgb(255, 255, 255);
+}
+.tamaño-imagen {
+  max-height: 40%;
+}
+.color-arriba  {
+  background-color: rgb(223, 240, 240);
+}
+.barra-arriba {
+  background-color: rgb(57, 57, 59);
+}
+.color-buscar {
+  background-color: #05BAE3;
+}
+
+.color-barra {
+  background-color: #313333;
+}
+
+.navbar-light .navbar-nav .nav-link {
+  color: darkred;
+}
+.tamaño-letra {
+  font-size: 25px;
+  color: black;
+}
+.mega-table th:first-child {
+  padding-left: 20px;
+
+}
+.table-ranking tr th {
+  color: #000;
+  margin-left: auto;
+  margin-right: auto;
+  flex: content;
+  -ms-flex-align:center;
+}
+.mega-table th {
+  border-top: 1px solid #9e5353;
+  text-transform: capitalize; 
+  padding: 5px 15px;
+  background-color: #05BAE3;
+ align-items: center;
+ border-left: 100px;
+}
+.carousel {
+  width: 60%;
+  height: 60%;
+  ;
+  
+}
